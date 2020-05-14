@@ -15,16 +15,16 @@ ezcolor.test("Some text")
 
 ### Options:
 #### option:
-Y or y = Reset color after printing out the colored text.
-N or n = Dont reset color.
+##### Y or y = Reset color after printing out the colored text.
+##### N or n = Dont reset color.
 #### Function name(s):
-ezcolor.red("text", "option")     Red text
-ezcolor.yellow("text", "option")  Yellow text
-ezcolor.green("text", "option")   Green text 
-ezcolor.blue("text", "option")    Blue text
-ezcolor.magenta("text", "option") Magenta text
-ezcolor.cyan("text", "option")    Cyan text
-ezcolor.test("text", "option")    Prints out a test text with every color.
+##### ezcolor.red("text", "option")     Red text
+##### ezcolor.yellow("text", "option")  Yellow text
+##### ezcolor.green("text", "option")   Green text 
+##### ezcolor.blue("text", "option")    Blue text
+##### ezcolor.magenta("text", "option") Magenta text
+##### ezcolor.cyan("text", "option")    Cyan text
+##### ezcolor.test("text", "option")    Prints out a test text with every color.
 ```python
 import ezcolormodule as ezcolorm
 
