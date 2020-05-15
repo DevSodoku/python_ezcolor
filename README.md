@@ -15,7 +15,7 @@ ezcolor.test("Some Text")
 
 ### Options:
 #### option:
-##### Y or y = Reset color after printing out the colored text.
+##### Y or y = Reset color after giving out the colored text.
 ##### N or n = Dont reset color.
 #### Function name(s):
 ##### ezcolor.color("text", "option")       Gives you a variable containing the text with the color (red,yellow,blue,cyan,magenta,green) just replace the color with the one you want to use.
